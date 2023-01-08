@@ -18,7 +18,8 @@ export default function Home() {
             Desenvolvedor Full-Stack Junior
           </h2>
           <span className="text-gray-500 font-light">
-            Atualmente atuando como desenvolvedor full-stack na Isnew Digital Tech
+            Atualmente atuando como desenvolvedor Full-stack na Isnew Digital
+            Tech
           </span>
         </section>
         <hr className="mt-8 border-[#4A4A4A]" />
